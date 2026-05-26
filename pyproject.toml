@@ -1,0 +1,18 @@
+[project]
+name = "quick-watermark"
+description = "ComfyUI custom node for applying PNG watermarks to still images and IMAGE batches."
+authors = [
+    { name = "boobkake22", email = "boobkake22@gmail.com" }
+]
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/boobkake22/ComfyUI-QuickWatermark"
+"Bug Tracker" = "https://github.com/boobkake22/ComfyUI-QuickWatermark/issues"
+
+[tool.comfy]
+PublisherId = "boobkake22"
+DisplayName = "Quick Watermark"
+Icon = ""
